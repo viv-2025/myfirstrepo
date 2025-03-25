@@ -2,3 +2,5 @@
 This is my first repository.
 
 ## What is this repository about?
+What is this file for?
+Do I put some code here later on?
